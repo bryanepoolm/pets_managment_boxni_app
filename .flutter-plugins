@@ -1,0 +1,12 @@
+# This is a generated file; do not edit or check into version control.
+flutter_plugin_android_lifecycle=/home/bryane/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.4/
+flutter_webview_plugin=/home/bryane/.pub-cache/hosted/pub.dartlang.org/flutter_webview_plugin-0.4.0/
+local_auth=/home/bryane/.pub-cache/hosted/pub.dartlang.org/local_auth-1.1.7/
+path_provider_linux=/home/bryane/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.0/
+path_provider_windows=/home/bryane/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.3/
+shared_preferences=/home/bryane/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.7/
+shared_preferences_linux=/home/bryane/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-2.0.2/
+shared_preferences_macos=/home/bryane/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.2/
+shared_preferences_web=/home/bryane/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-2.0.2/
+shared_preferences_windows=/home/bryane/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-2.0.2/
+webview_flutter=/home/bryane/.pub-cache/hosted/pub.dartlang.org/webview_flutter-2.0.13/
